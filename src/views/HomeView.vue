@@ -8,5 +8,4 @@
     <Hero />
     <HomeCards />
     <JobListings :limit="2" :show-button="true"/>
-    <h1 class="text-2xl">VUE JOBS</h1>
 </template>
